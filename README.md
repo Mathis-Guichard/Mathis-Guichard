@@ -35,10 +35,6 @@
 <br />
 <br />
 
----
-
-
-
 [website]: https://mathis-guichard.fr
 [micon]: https://www.mic-on.fr/en/home
 [ascentia]: https://www.ascentia.fr
