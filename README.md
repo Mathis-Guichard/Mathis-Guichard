@@ -16,6 +16,7 @@
 [<img align="left" alt="Mathis Guichard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
 
 ### Languages and Tools that I know / currently learning
 
@@ -33,12 +34,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
-
-
-
 [website]: https://mathis-guichard.fr
 [micon]: https://www.mic-on.fr/en/home
 [ascentia]: https://www.ascentia.fr
